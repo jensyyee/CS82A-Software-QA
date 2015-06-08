@@ -6,7 +6,7 @@
 Jennifer Yee
 ------------
 
-An automation file for Sauce Labs will be loaded to this depository.
+An automation file for Sauce Labs will be loaded to this repository.
 
 
 
